@@ -1,5 +1,10 @@
 # English-to-CLI
 
+## Author
+
+Developed by [Srijan Sinha]([https://github.com/your-github-username](https://github.com/KingCrimson711))  
+Feel free to contribute, suggest improvements, or report issues!
+
 ## 📌 About  
 This project allows users to execute Linux terminal commands by speaking in natural language. It uses **Whisper** for speech-to-text and **Ollama (Llama3)** to convert transcriptions into valid terminal commands. The system then executes the generated commands, enabling a voice-controlled command-line interface.  
 
