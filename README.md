@@ -2,7 +2,7 @@
 
 ## Author
 
-Developed by [Srijan Sinha]([https://github.com/your-github-username](https://github.com/KingCrimson711))  
+Developed by [Me]([https://github.com/your-github-username](https://github.com/KingCrimson711))  
 Feel free to contribute, suggest improvements, or report issues!
 
 ## 📌 About  
