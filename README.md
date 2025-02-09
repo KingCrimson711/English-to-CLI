@@ -25,7 +25,7 @@ Make sure you have the following installed:
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/your-username/English-to-CLI.git
+git clone https://github.com/KingCrimson711/English-to-CLI.git
 cd English-to-CLI
 ```
 
